@@ -14,11 +14,7 @@ export default function Real() {
           alt=""
         />
         <div className="md:max-w-[1090px] text-center md:mx-[80px]">
-          <h2
-            data-aos="fade-up"
-            data-aos-duration="1000"
-            className="text-[32px] md:text-[64px] font-extrabold text-blue uppercase"
-          >
+          <h2 className="text-[32px] md:text-[64px] font-extrabold text-blue uppercase">
             Sự thật là hiện nay,
           </h2>
           <div
@@ -26,12 +22,9 @@ export default function Real() {
             data-aos="fade-up"
             data-aos-duration="1000"
           >
-            gần{" "}
-            <span className="text-[26px] md:text-[48px] font-bold italic text-[#AF392B]">
-              1/3 công ty khởi nghiệp thất bại
-            </span>{" "}
-            bởi họ thiếu vốn, không có đủ tiền mặt để tiếp tục hoạt động. Điều
-            này xảy ra với cả những công ty đã phát triển như vũ bão.
+            gần 1/3 công ty khởi nghiệp thất bại bởi họ thiếu vốn, không có đủ
+            tiền mặt để tiếp tục hoạt động. Điều này xảy ra với cả những công ty
+            đã phát triển như vũ bão.
           </div>
           <div className="relative">
             <div
